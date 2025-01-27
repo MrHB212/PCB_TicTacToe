@@ -9,5 +9,4 @@ Die Platine wurde bestellt und ist angekommen, allerdings waren da Fehler enthal
 - LED THT waren zu nah dran zum selbstlöten, potentielle Kurzschlüsse
 - Manche Leitungen scheinen nicht zu stimmen
 
-Infolgedessen konnte ich es nicht zusammenbauen und ausprobieren. Korrigiert
-habe ich es zudem auch nicht.
+Infolgedessen konnte ich es nicht zusammenbauen und ausprobieren. 
